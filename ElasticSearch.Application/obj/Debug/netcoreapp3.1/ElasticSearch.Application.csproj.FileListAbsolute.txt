@@ -1,0 +1,13 @@
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\bin\Debug\netcoreapp3.1\ElasticSearch.Application.deps.json
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\bin\Debug\netcoreapp3.1\ElasticSearch.Application.dll
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\bin\Debug\netcoreapp3.1\ElasticSearch.Application.pdb
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\bin\Debug\netcoreapp3.1\ElasticSearch.Core.dll
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\bin\Debug\netcoreapp3.1\ElasticSearch.Core.pdb
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.csproj.AssemblyReference.cache
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.AssemblyInfoInputs.cache
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.AssemblyInfo.cs
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.csproj.CoreCompileInputs.cache
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.csproj.CopyComplete
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.dll
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Application\obj\Debug\netcoreapp3.1\ElasticSearch.Application.pdb

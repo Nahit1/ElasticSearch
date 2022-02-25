@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "+XcR6DThUOwFlc+XpyNNIEXZlkqLTgV1fXWMEbYqPT7WRrFxiSt0zPVpzFhhKI2wmOfNScEGHn+lmqsZIMM7gA==",
+  "dgSpecHash": "9gTUH7sDgWjh0Hs14Uli0bAWa8G6yTZk6JkfcaQV0E0ScSfENl1f1t2YbvNyO/sH/yy7XTVhFGi4o6Ckw1JZxA==",
   "success": true,
-  "projectFilePath": "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.WebAPI\\ElasticSearch.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\ozgur.akdag\\Desktop\\ElasticSearch\\ElasticSearch.WebAPI\\ElasticSearch.WebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\nest\\7.17.0\\nest.7.17.0.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\nahit.ektas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\nest\\7.17.0\\nest.7.17.0.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ozgur.akdag\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

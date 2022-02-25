@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj": {}
+    "C:\\Users\\ozgur.akdag\\Desktop\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj": {}
   },
   "projects": {
-    "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj": {
+    "C:\\Users\\ozgur.akdag\\Desktop\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ozgur.akdag\\Desktop\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj",
         "projectName": "ElasticSearch.Core",
-        "projectPath": "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj",
-        "packagesPath": "C:\\Users\\nahit.ektas\\.nuget\\packages\\",
-        "outputPath": "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.Core\\obj\\",
+        "projectPath": "C:\\Users\\ozgur.akdag\\Desktop\\ElasticSearch\\ElasticSearch.Core\\ElasticSearch.Core.csproj",
+        "packagesPath": "C:\\Users\\ozgur.akdag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozgur.akdag\\Desktop\\ElasticSearch\\ElasticSearch.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nahit.ektas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ozgur.akdag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

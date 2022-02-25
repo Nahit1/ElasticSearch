@@ -1,0 +1,10 @@
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\bin\Debug\netcoreapp3.1\ElasticSearch.Core.deps.json
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\bin\Debug\netcoreapp3.1\ElasticSearch.Core.dll
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\bin\Debug\netcoreapp3.1\ElasticSearch.Core.pdb
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.csproj.AssemblyReference.cache
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.AssemblyInfoInputs.cache
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.AssemblyInfo.cs
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.csproj.CoreCompileInputs.cache
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.dll
+C:\Users\ozgur.akdag\Desktop\ElasticSearch\ElasticSearch.Core\obj\Debug\netcoreapp3.1\ElasticSearch.Core.pdb
