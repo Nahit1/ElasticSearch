@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyuxFQ8g6OQrKXSF9+MdWgBVNCeLG5ItbhWwTQ072/TFPw7L4I/NEaWlPvhE2jrz3cefc4XSYfblDWsF1Iw31Q==",
+  "success": true,
+  "projectFilePath": "C:\\Calismalar2\\ElasticSearch\\ElasticSearch.Application\\ElasticSearch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\nest\\7.17.0\\nest.7.17.0.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nahit.ektas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
